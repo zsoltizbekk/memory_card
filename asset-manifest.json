@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/zsoltizbekk/memory_card/static/css/main.acf0bbbb.css",
+    "main.js": "/zsoltizbekk/memory_card/static/js/main.17fef452.js",
+    "static/media/Heart Breaking Bad.otf": "/zsoltizbekk/memory_card/static/media/Heart Breaking Bad.3513760cec3086c0167f.otf",
+    "static/media/gabriele-bad.ttf": "/zsoltizbekk/memory_card/static/media/gabriele-bad.9e49d8a54085ab437c34.ttf",
+    "static/media/13.png": "/zsoltizbekk/memory_card/static/media/13.eb951c148ca260d0cbbf.png",
+    "static/media/3.png": "/zsoltizbekk/memory_card/static/media/3.48405a99f69ab37aeff3.png",
+    "static/media/4.png": "/zsoltizbekk/memory_card/static/media/4.2c086199d17877de5dc9.png",
+    "static/media/8.png": "/zsoltizbekk/memory_card/static/media/8.348375bcca035486a649.png",
+    "static/media/7.png": "/zsoltizbekk/memory_card/static/media/7.130cdd0bfa44aaa66453.png",
+    "static/media/10.png": "/zsoltizbekk/memory_card/static/media/10.0ef86f0093609a338e05.png",
+    "static/media/2.png": "/zsoltizbekk/memory_card/static/media/2.d73277840bb110af7d93.png",
+    "static/media/15.png": "/zsoltizbekk/memory_card/static/media/15.99ed5ab6ee657e906744.png",
+    "static/media/14.png": "/zsoltizbekk/memory_card/static/media/14.14a7aaaeb480bb6c28e9.png",
+    "static/media/6.png": "/zsoltizbekk/memory_card/static/media/6.06219ec02e210c19794f.png",
+    "static/media/5.png": "/zsoltizbekk/memory_card/static/media/5.acef42b33997aec152e4.png",
+    "static/media/12.png": "/zsoltizbekk/memory_card/static/media/12.31700a54a4ecfa9c20b2.png",
+    "static/media/11.png": "/zsoltizbekk/memory_card/static/media/11.3880096368abc8de3fcf.png",
+    "static/media/1.png": "/zsoltizbekk/memory_card/static/media/1.4cce2222352ffc2ae798.png",
+    "static/media/9.png": "/zsoltizbekk/memory_card/static/media/9.119600bb119238b8a116.png",
+    "static/media/github.png": "/zsoltizbekk/memory_card/static/media/github.41bf98757324c33fba78.png",
+    "index.html": "/zsoltizbekk/memory_card/index.html",
+    "main.acf0bbbb.css.map": "/zsoltizbekk/memory_card/static/css/main.acf0bbbb.css.map",
+    "main.17fef452.js.map": "/zsoltizbekk/memory_card/static/js/main.17fef452.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acf0bbbb.css",
+    "static/js/main.17fef452.js"
+  ]
+}
