@@ -102,7 +102,7 @@ function App() {
         {imgs.map((img, i) => {
           return (
             <div key={i} onClick={() => checkChosenCard(img)}>
-              <img src={img} />
+              <img className="character" src={img} />
             </div>
           );
         })}
