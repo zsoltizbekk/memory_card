@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/memory_card/static/css/main.79c76da0.css",
-    "main.js": "/memory_card/static/js/main.b5a67d25.js",
+    "main.css": "/memory_card/static/css/main.083ce178.css",
+    "main.js": "/memory_card/static/js/main.eef897f5.js",
     "static/media/Heart Breaking Bad.otf": "/memory_card/static/media/Heart Breaking Bad.3513760cec3086c0167f.otf",
     "static/media/gabriele-bad.ttf": "/memory_card/static/media/gabriele-bad.9e49d8a54085ab437c34.ttf",
     "static/media/13.png": "/memory_card/static/media/13.eb951c148ca260d0cbbf.png",
@@ -21,11 +21,11 @@
     "static/media/9.png": "/memory_card/static/media/9.119600bb119238b8a116.png",
     "static/media/github.png": "/memory_card/static/media/github.41bf98757324c33fba78.png",
     "index.html": "/memory_card/index.html",
-    "main.79c76da0.css.map": "/memory_card/static/css/main.79c76da0.css.map",
-    "main.b5a67d25.js.map": "/memory_card/static/js/main.b5a67d25.js.map"
+    "main.083ce178.css.map": "/memory_card/static/css/main.083ce178.css.map",
+    "main.eef897f5.js.map": "/memory_card/static/js/main.eef897f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.79c76da0.css",
-    "static/js/main.b5a67d25.js"
+    "static/css/main.083ce178.css",
+    "static/js/main.eef897f5.js"
   ]
 }
